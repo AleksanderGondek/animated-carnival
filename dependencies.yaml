@@ -1,0 +1,9 @@
+options:
+  languages:
+    - "scala:2.12.11"
+dependencies:
+  org.scalameta:
+    "semanticdb-javac":
+      version: "4.1.6"
+      lang: "scala"
+
